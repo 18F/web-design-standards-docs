@@ -23,6 +23,23 @@
     url: https://www.drupal.org/u/brockfanning
   notes: "This base theme focuses on tweaking Drupal's markup so that it will work with the USWDS library. Some CSS is added to deal with unavoidable Drupal quirks, but only as a last resort."
 
+- name: USWDS CKEditor Integration
+  distribution: Drupal
+  url: https://www.drupal.org/project/uswds_ckeditor_integration
+  author:
+    name: Stephen Mustgrave
+    url: https://www.drupal.org/u/smustgrave
+  notes: "Add USWDS tables and accordions within CKEditor."
+
+- name: USWDS Paragraph Components
+  distribution: Drupal
+  url: https://www.drupal.org/project/uswds_paragraph_components
+  author:
+    name: Stephen Mustgrave
+    url: https://www.drupal.org/u/smustgrave
+  notes: "USWDS components as paragraph bundles. Includes accordion, card, alert, process list, summary box, step indicator, and layout grid options."
+
+
 - name: uswds-jekyll
   distribution: Jekyll
   url: https://github.com/18f/uswds-jekyll
